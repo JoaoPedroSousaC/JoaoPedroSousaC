@@ -1,4 +1,4 @@
-### Oi, eu sou o Jão Pedro 👋
+### Oi, eu sou o João Pedro 👋
 
 <div align="center">
   <a href="https://github.com/JoaoPedroSousaC">
